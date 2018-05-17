@@ -61,7 +61,7 @@ the complexity is:
 
 **Worst-case:** O(n)
 
-**Best-case:** Ω(1)
+**Best-case:** Ω(c)
 
 The best-case is when we notice on the first and last letter that it's not the same so we can imediately return false.
 
